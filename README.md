@@ -1,8 +1,6 @@
 # Windows Security Testing Guide: Telegram Desktop Session Hijacking
 
-![License](https://img.shields.io/badge/License-MIT-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![Focus](https://img.shields.io/badge/Focus-OSINT%20%2F%20Red%20Teaming-red)
 
 ## 📖 Introduction
 
@@ -12,7 +10,7 @@ The core case study examines **Telegram Desktop**, demonstrating how the theft o
 
 ---
 
-## 🎯 Case Study: Telegram Desktop `tdata` Theft
+## Case Study: Telegram Desktop `tdata` Theft
 
 ### The Vulnerability
 
@@ -28,7 +26,7 @@ During installation, Telegram Desktop prompts users to select a directory for sa
 
 ---
 
-## 🗺️ Attack Surface Overview
+##  Attack Surface Overview
 
 This vulnerability can be reached through several broad categories of access, each with a different risk profile for the attacker and detectability for the defender:
 
@@ -41,7 +39,7 @@ This project does not document the operational specifics of these techniques. Th
 
 ---
 
-## 🔍 Real-World Evidence & Threat Intelligence
+##  Real-World Evidence & Threat Intelligence
 
 This vulnerability is not theoretical. It is actively exploited by malware families and supply-chain attacks.
 
@@ -61,7 +59,7 @@ This vulnerability is not theoretical. It is actively exploited by malware famil
 
 ---
 
-## 🛡️ Mitigations & Best Practices
+##  Mitigations & Best Practices
 
 How can users and analysts defend against this design tradeoff?
 
@@ -73,7 +71,7 @@ How can users and analysts defend against this design tradeoff?
 
 ---
 
-## ⚖️ Ethical Considerations
+##  Ethical Considerations
 
 This project is strictly for **educational use and research** within legal and ethical boundaries.
 
