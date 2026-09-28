@@ -2,6 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
+DOI: 10.5281/ZENODO.22981157
 ## 📖 Introduction
 
 This repository provides a practical, academic-led guide for security testing on Windows systems, focusing on **Application Data Storage Vulnerabilities**. While much of cybersecurity research focuses on server-side exploits and network protocols, this project highlights how local file structure and default user behaviors can lead to significant unauthorized access.
